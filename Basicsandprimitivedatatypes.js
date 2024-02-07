@@ -104,3 +104,7 @@ console.log(newBook)
 let cityname = "surat"
 lastchar = cityname[4]
 console.log(lastchar)
+
+
+let a = 1
+console.log(a);
